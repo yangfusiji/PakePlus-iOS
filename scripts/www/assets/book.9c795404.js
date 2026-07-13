@@ -1,0 +1,1 @@
+import{K as t}from"./index-7062f5a9.js";const o=t("book",{state:()=>({weigh_bone:{poetry:null,title:null,explain:null,total:null},books:[]}),actions:{set(t){for(let o in t)this[o]=t[o]}}});export{o as u};
