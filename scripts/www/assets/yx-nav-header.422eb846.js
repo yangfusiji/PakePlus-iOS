@@ -1,0 +1,1 @@
+import{b as a}from"./u-tabbar.643c72ea.js";import{u as t,v as s,c as e,e as r,z as o,a9 as i}from"./index-782cb811.js";const l={__name:"yx-nav-header",setup:l=>(l,n)=>{const b=t(s("u-navbar"),a);return e(),r(b,{"title-bold":"","is-back":!1,"title-color":"#333333",title:o(i)},null,8,["title"])}};export{l as _};
